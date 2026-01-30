@@ -1,4 +1,4 @@
 # TestApp
 My Project
 <br>
-Author - Nikhil Govekar
+Author - Nikhil Govekar -- IT Trainer
